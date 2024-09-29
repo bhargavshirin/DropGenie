@@ -45,6 +45,26 @@ DropGenie is an e-commerce platform designed to offer a seamless shopping experi
 ### Search Results
 ![image](https://github.com/user-attachments/assets/52bf62dd-5fcf-40c2-98bf-be8bf6cbd240)
 
+![Uploading Screenshot 2024-09-29 at 3.15.09 PM.png…]()
+
+
+
+### Cart
+![image](https://github.com/user-attachments/assets/15a09a43-7415-4b77-9ce6-6d02057e22fd)
+
+
+
+### Profile Section
+![image](https://github.com/user-attachments/assets/6abdc1d2-5840-4ec6-a18d-f897a00cc345)
+
+### Login / Signup
+![image](https://github.com/user-attachments/assets/1f5633bf-b23e-47f8-a0fd-52040c9b5a03)
+
+### Return and fraus detection
+
+<img width="856" alt="Screenshot 2024-09-29 at 2 53 47 PM" src="https://github.com/user-attachments/assets/2174fea2-b952-4dd7-abab-7d25beed875f">
+![image](https://github.com/user-attachments/assets/057c9988-69bb-4373-8ada-eb9daf2106e8)
+
 
 ## Setup and Installation
 
