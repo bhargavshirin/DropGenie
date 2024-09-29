@@ -45,7 +45,8 @@ DropGenie is an e-commerce platform designed to offer a seamless shopping experi
 ### Search Results
 ![image](https://github.com/user-attachments/assets/52bf62dd-5fcf-40c2-98bf-be8bf6cbd240)
 
-![Uploading Screenshot 2024-09-29 at 3.15.09 PM.png…]()
+<img width="1440" alt="Screenshot 2024-09-29 at 3 15 09 PM" src="https://github.com/user-attachments/assets/2c21960b-428a-43ba-9369-cb5f690b8670">
+
 
 
 
